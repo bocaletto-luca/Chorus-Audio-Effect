@@ -1,7 +1,6 @@
 # Software Name: Chorus
 # Author: Luca Bocaletto
 # Description: A Python application for creating a Chorus audio effect.
-
 # Import necessary libraries
 import sys
 import numpy as np
