@@ -29,3 +29,13 @@
 "Chorus" is a valuable tool for musicians, music producers, and audio enthusiasts looking to experiment with the Chorus effect and add depth and resonance to their audio recordings.
 
 **Note:** Make sure you have installed the necessary libraries listed in the code to run the application properly.
+
+---
+
+**Note**: Ensure that you have installed all the necessary dependencies before running the application.
+
+**Maintainer Update**
+
+My current GitHub account is **@bocaletto-luca**, which is now the official maintainer of all projects previously published under the **@Elektronoide** account. Please direct any issues, pull requests, or stars to **@bocaletto-luca** for future updates.
+
+---
