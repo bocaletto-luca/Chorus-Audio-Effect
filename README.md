@@ -2,7 +2,7 @@
 
 **Author:** Bocaletto Luca
 
-**Language:** Python
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu)](LICENSE) [![Language: Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/) [![Linux-Compatible](https://img.shields.io/badge/Linux-Compatible-blue?style=for-the-badge&logo=linux)](https://www.kernel.org/) [![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)](https://github.com/bocaletto-luca/Directory-Monitor)
 
 ## Description
 "Chorus" is a Python application developed by Luca Bocaletto that allows you to create the audio effect known as Chorus. This application provides users with the ability to adjust various parameters of the Chorus effect to creatively modify audio. The Chorus effect is widely used in audio production to add depth and spatiality to sound, creating the impression of multiple musicians or singers performing simultaneously.
